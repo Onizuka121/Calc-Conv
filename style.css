@@ -1,0 +1,12 @@
+.col, .col-4{
+    max-height: 65px;
+    cursor:cell;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#schermo , .firma{
+    font-family: 'digital';   
+}
+@font-face {
+    font-family: 'digital';
+    src: url(digital-7.ttf);
+}

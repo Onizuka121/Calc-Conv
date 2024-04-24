@@ -1,0 +1,32 @@
+body{
+    font-family: "Raleway", sans-serif;
+}
+.col, .col-4{
+    max-height: 67px;
+    cursor:cell;
+    font-family: "Raleway", sans-serif;
+}
+#schermo  , #schermo-out-valuta{
+    font-family: 'digital';   
+}
+#schermo,#schermo-out-valuta{
+    overflow: auto;
+}
+@font-face {
+    font-family: 'digital';
+    src: url(digital-7.ttf);
+}
+
+.conv-element-class{
+    display: block;
+}
+.dropdown-item{
+    cursor: pointer;
+}
+
+#from-valuta{
+    color: rgb(0, 85, 255);
+}
+#to-valuta{
+    color: rgb(45, 154, 45);
+}
